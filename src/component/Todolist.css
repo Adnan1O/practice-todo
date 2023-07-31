@@ -1,0 +1,7 @@
+tr{
+    width: 100vw;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-weight: bold;
+}

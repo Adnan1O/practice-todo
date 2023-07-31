@@ -1,0 +1,12 @@
+.inputarea input{
+    height: 3vh;
+    width: 250px;
+}
+.inputarea button{
+    height: 4vh;
+    width: 50px;
+    background-color: rgb(27, 52, 53);
+    border: none;
+    color: aliceblue;
+    cursor: pointer;
+}
